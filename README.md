@@ -34,4 +34,3 @@
 - Used Only Logistic Regression Algorithm
 - AUC-ROC Score: 0.7806
 
-- 
