@@ -8,6 +8,8 @@
 [Link to New Features Created](https://docs.google.com/document/d/1vbxawn8WBStF0A9YKUk0FA44f-5Of3VwaqsrD2fS3ts/edit?usp=sharing): Link description about new features created from available features, during the Feature Engineering process
 <br>
 [Link to Slide](https://stneuedu-my.sharepoint.com/:p:/g/personal/11219263_st_neu_edu_vn/EWo1vrNDjApJiK6VBcbaYlYBOr0jTBRSSDQGwhowNN8Rqg?e=Yq7tjw)
+<br>
+[Link to processed Data](https://www.kaggle.com/datasets/hynnie/processed-data-credit-risk-prj)
 
 #### Data Preprocessed
 - <b>Exploratory Data Analysis (EDA)<b>
