@@ -1,4 +1,4 @@
-### Midterm Project for Data Preparation and Visualization by Group 12, DSEB 63
+### Final Project for Data Preparation and Visualization by Group 12, DSEB 63
 - Nguyen Khanh Huyen (Leader)
 - Le Thi Quynh Anh
 - Dao Ngoc Chi
